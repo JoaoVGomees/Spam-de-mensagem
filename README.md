@@ -1,2 +1,2 @@
 # bot-spam
- Spam de mensagem, colocar apenas qual a mensagem e vai começar a mandar
+ Spam de mensagem simples, colocar apenas qual a mensagem e vai começar a mandar.
